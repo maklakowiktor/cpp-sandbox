@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "ostream": "cpp"
+    },
+    "cmake.mingwSearchDirs": [
+        "C:\\MinGW\\bin"
+    ],
+    "cmake.generator": "MinGW Makefiles"
+}
