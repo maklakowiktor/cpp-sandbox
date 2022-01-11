@@ -3,5 +3,10 @@
   "directory": "C:/Users/makla/Desktop/projects/cpp/test000/build",
   "command": "C:\\MinGW\\bin\\mingw32-g++.exe   -g -o CMakeFiles\\test000.dir\\main.cpp.obj -c C:\\Users\\makla\\Desktop\\projects\\cpp\\test000\\main.cpp",
   "file": "C:/Users/makla/Desktop/projects/cpp/test000/main.cpp"
+},
+{
+  "directory": "C:/Users/makla/Desktop/projects/cpp/test000/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe   -g -o CMakeFiles\\test000.dir\\factorial.cpp.obj -c C:\\Users\\makla\\Desktop\\projects\\cpp\\test000\\factorial.cpp",
+  "file": "C:/Users/makla/Desktop/projects/cpp/test000/factorial.cpp"
 }
 ]

@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "C:/Users/makla/Desktop/projects/cpp/test000/factorial.cpp" "CMakeFiles/test000.dir/factorial.cpp.obj" "gcc" "CMakeFiles/test000.dir/factorial.cpp.obj.d"
   "C:/Users/makla/Desktop/projects/cpp/test000/main.cpp" "CMakeFiles/test000.dir/main.cpp.obj" "gcc" "CMakeFiles/test000.dir/main.cpp.obj.d"
   )
 
